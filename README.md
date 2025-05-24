@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **NGS Data Analysis and Web-based tools**
 - 🌱 I’m currently learning **Bioinformatics & Cloud automation**
 - 👯 I’m looking to collaborate on **open-source genomics projects**
-- 📫 How to reach me: **ahmetcizmeci@gmail.com**
+- 📫 How to reach me: **ahmetcizzmeci@gmail.com**
 
 ---
 
